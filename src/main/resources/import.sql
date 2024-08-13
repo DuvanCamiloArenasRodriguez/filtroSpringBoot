@@ -33,3 +33,5 @@ INSERT INTO unitmeasurement(name_um) VALUES ("mg")
 
 
 INSERT INTO medicine(proceedings, name_medicine, health_register, description, description_short, name_rol, code_mode_admin, code_ap, code_um, code_lab) VALUES ("Inyeccion", "Diclofenaco", "Nueva EPS", "Mdicina inyectada", "MI", "Enfermero", 1, 2, 1, 2)
+INSERT INTO medicine(proceedings, name_medicine, health_register, description, description_short, name_rol, code_mode_admin, code_ap, code_um, code_lab) VALUES ("Inyeccion", "Morfina", "Sura", "Medicina inyectada", "MI", "Enfermero", 2, 2, 1, 1)
+INSERT INTO medicine(proceedings, name_medicine, health_register, description, description_short, name_rol, code_mode_admin, code_ap, code_um, code_lab) VALUES ("Inyeccion", "Loratadina", "Sanitas", "Mdeicina inyectada", "MI", "Enfermero", 3, 2, 1, 3)
